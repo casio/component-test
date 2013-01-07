@@ -1,0 +1,13 @@
+{
+  "name": "component-test",
+  "repo": "casio/component-test",
+  "description": "Test component to checkout git branch support in components",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
