@@ -1,5 +1,5 @@
 module.exports = {
   testomat: function() {
-    return 'master';
+    return '0.0.1';
   }
 }
