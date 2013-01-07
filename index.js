@@ -1,5 +1,5 @@
 module.exports = {
   testomat: function() {
-    console.log('###', 'TEST');
+    return 'master';
   }
 }
