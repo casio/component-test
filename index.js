@@ -1,5 +1,5 @@
 module.exports = {
   testomat: function() {
-    return 'master test after branch...';
+    return 'master continuation from other wc...';
   }
 }
