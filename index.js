@@ -1,5 +1,5 @@
 module.exports = {
   testomat: function() {
-    return 'master';
+    return 'master test after branch...';
   }
 }
